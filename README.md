@@ -1,2 +1,2 @@
-- **[Peržiūrėti darbą (Click here)](https://elijas.github.io/statistikos-laboratorinis-darbas/)**
+- **[Peržiūrėti darbą (Click here to open preview)](https://elijas.github.io/statistikos-laboratorinis-darbas/)**
 - [Kitų laboratorinių darbų sąrašas](https://github.com/Elijas/statistikos-laboratoriniai-darbai)
